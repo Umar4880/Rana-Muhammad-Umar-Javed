@@ -1,4 +1,4 @@
-# Rana-Muhammad-Umar-Javed
+# Umar4880
 Hi there! 👋 Welcome to my GitHub
 I’m a BS Computer Science student at the University of Gujrat, passionate about exploring the world of technology and leveraging the power of Python, Data Science, and Machine Learning to solve real-world problems.
 
