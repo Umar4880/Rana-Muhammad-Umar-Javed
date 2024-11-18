@@ -5,8 +5,11 @@ I’m a BS Computer Science student at the University of Gujrat, passionate abou
 🌟 About Me
 
 🎓 Education: Bachelor’s in Computer Science (in progress)
+
 💻 Skills: Python, Data Science, Machine Learning
+
 🌱 Currently Learning: Advanced Machine Learning techniques and hands-on data analysis
+
 🚀 Future Goals: Work on impactful projects and contribute to open-source initiatives
 
 🤔 What I’m Looking For
