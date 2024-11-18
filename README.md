@@ -14,5 +14,9 @@ Collaboration Opportunities: I am open to collaborating on beginner-friendly pro
 Mentorship: Always eager to learn from experienced developers and data scientists.
 
 🌐 Let’s Connect
+
 LinkedIn: www.linkedin.com/in/ranaumar4880
-📧 Contact Me: ranaumarranaumar705@gmail.com
+
+Email: ranaumarranaumar705@gmail.com
+
+
